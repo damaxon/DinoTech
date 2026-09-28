@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "III",
+    "ICI"
+  ],
+  "key": {
+    "W": {
+      "item": "dinotech:copper_wire"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "result": {
+    "id": "dinotech:assembly_table",
+    "count": 1
+  }
+}
